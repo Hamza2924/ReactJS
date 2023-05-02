@@ -1,0 +1,24 @@
+.Container1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.vegetables{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+table{
+    border-collapse: separate;
+    border-spacing: 10px,20px;
+    
+}
+table,th,td{
+    border: 1px solid rgb(85, 85, 214);
+}
+td{
+    vertical-align: top;
+}
+th,td{
+    padding: 10px,15px;
+}

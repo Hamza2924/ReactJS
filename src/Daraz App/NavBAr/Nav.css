@@ -1,0 +1,33 @@
+
+.container{
+    height: 20vh;
+    width: 100lvw;
+    background-color: rgba(177, 105, 46, 0.486);
+    display: flex;
+    justify-content: space-between;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container1 ul{
+    display: flex; 
+    justify-content: space-around;
+     padding-left: 10px;
+    
+}
+.container1 ul li {
+    text-decoration: none;
+}
+.container2 ul{
+    display: flex;
+    justify-content: space-around; 
+}
+/* .divlogoimg{
+    background-color: blue;
+}
+.divlogoimg img{
+    height: 40px;
+} */
